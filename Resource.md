@@ -29,3 +29,6 @@ Naive Bayes http://scikit-learn.org/stable/modules/naive_bayes.html
 
 Random Forests http://scikit-learn.org/stable/modules/ensemble.html#random-forests
 
+Random forest interpretation with scikit-learn http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/
+
+
