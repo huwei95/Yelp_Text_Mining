@@ -32,3 +32,7 @@ Random Forests http://scikit-learn.org/stable/modules/ensemble.html#random-fores
 Random forest interpretation with scikit-learn http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/
 
 
+XGBoost Extreme Gradient Boost http://xgboost.readthedocs.io/en/latest/model.html
+
+
+
