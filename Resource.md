@@ -31,6 +31,7 @@ Random Forests http://scikit-learn.org/stable/modules/ensemble.html#random-fores
 
 Random forest interpretation with scikit-learn http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/
 
+variable importance http://stackoverflow.com/questions/22361781/how-does-sklearn-random-forest-index-feature-importances
 
 XGBoost Extreme Gradient Boost http://xgboost.readthedocs.io/en/latest/model.html
 
