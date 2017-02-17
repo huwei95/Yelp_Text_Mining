@@ -33,6 +33,8 @@ Random forest interpretation with scikit-learn http://blog.datadive.net/random-f
 
 variable importance http://stackoverflow.com/questions/22361781/how-does-sklearn-random-forest-index-feature-importances
 
+Bootstrap Aggregating (Bagging): https://en.wikipedia.org/wiki/Bootstrap_aggregating
+
 XGBoost Extreme Gradient Boost http://xgboost.readthedocs.io/en/latest/model.html
 
 
