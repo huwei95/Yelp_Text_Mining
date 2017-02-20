@@ -38,4 +38,5 @@ Bootstrap Aggregating (Bagging): https://en.wikipedia.org/wiki/Bootstrap_aggrega
 XGBoost Extreme Gradient Boost http://xgboost.readthedocs.io/en/latest/model.html
 
 
+multiclass problem http://scikit-learn.org/stable/modules/multiclass.html
 
