@@ -10,6 +10,7 @@
    3.4 Cross-Validation
 4. Data Description
 5. Methods
+   5.1 Preprocessing
 6. Results:
    6.1 Model built without reviews
    6.2 Topics extracted from reviews
