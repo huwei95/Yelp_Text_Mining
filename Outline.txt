@@ -11,6 +11,6 @@
 4. Data Description
 5. Methods
 6. Results:
-   6.1 Model built without topics
-   6.2 Model built without topics
+   6.1 Model built without topics extracted
+   6.2 Model built with topics extracted
 7. Conclusion
