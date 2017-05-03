@@ -40,3 +40,8 @@ XGBoost Extreme Gradient Boost http://xgboost.readthedocs.io/en/latest/model.htm
 
 multiclass problem http://scikit-learn.org/stable/modules/multiclass.html
 
+
+Lift Chart vs ROC curve
+
+http://www.groupes.polymtl.ca/mth6301/mth8302/Autres/Clement-CourbesROC&CourbesLIFT.pdf
+
