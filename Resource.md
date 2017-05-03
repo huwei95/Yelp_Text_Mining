@@ -45,3 +45,8 @@ Lift Chart vs ROC curve
 
 http://www.groupes.polymtl.ca/mth6301/mth8302/Autres/Clement-CourbesROC&CourbesLIFT.pdf
 
+
+Lift Chart and Gain Chart
+
+http://www2.cs.uregina.ca/~dbd/cs831/notes/lift_chart/lift_chart.html
+
